@@ -1,0 +1,10 @@
+sudo apt-get install vim subversion cmake cmake-curses-gui \
+  doxygen \
+  openscenegraph mplayer ffmpeg gimp inkscape 
+
+sudo apt-get install libpng12-dev libnetpbm10-dev libavcodec-dev \
+  libavformat-dev libavutil-dev libswscale-dev \
+  libcv-dev libcvaux-dev libhighgui-dev libopencv-gpu-dev libfftw3-dev\
+  libopenscenegraph-dev libboost-dev libboost-serialization-dev\
+  compiz-dev compizconfig-settings-manager xsltproc
+

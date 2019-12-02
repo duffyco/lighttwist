@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/imgu/!svn/ver/1196/devel/data/shaders
+END
+shader_rgblutblend.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/imgu/!svn/ver/1105/devel/data/shaders/shader_rgblutblend.glsl
+END
+shader_rgb.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/imgu/!svn/ver/1108/devel/data/shaders/shader_rgb.glsl
+END
+shader_rgba.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/imgu/!svn/ver/1108/devel/data/shaders/shader_rgba.glsl
+END
+shader_yuvlutblend.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/imgu/!svn/ver/1105/devel/data/shaders/shader_yuvlutblend.glsl
+END
+shader_rgblut.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/imgu/!svn/ver/1105/devel/data/shaders/shader_rgblut.glsl
+END
+shader_test.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/imgu/!svn/ver/1108/devel/data/shaders/shader_test.glsl
+END
+shader_yuvclamp.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/imgu/!svn/ver/1182/devel/data/shaders/shader_yuvclamp.glsl
+END
+shader_yuvlutHLblend.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/imgu/!svn/ver/1183/devel/data/shaders/shader_yuvlutHLblend.glsl
+END
+shader_gray.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/imgu/!svn/ver/1111/devel/data/shaders/shader_gray.glsl
+END
+shader_rgblutHL.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/imgu/!svn/ver/1196/devel/data/shaders/shader_rgblutHL.glsl
+END
+shader_yuv.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/imgu/!svn/ver/1105/devel/data/shaders/shader_yuv.glsl
+END

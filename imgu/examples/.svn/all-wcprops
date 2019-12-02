@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/imgu/!svn/ver/1218/devel/examples
+END
+imguTestPlugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/imgu/!svn/ver/1160/devel/examples/imguTestPlugin.c
+END
+imguMerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/imgu/!svn/ver/1162/devel/examples/imguMerge.c
+END
+imguJoin.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/imgu/!svn/ver/1105/devel/examples/imguJoin.c
+END
+imgupointpick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/imgu/!svn/ver/1214/devel/examples/imgupointpick.cpp
+END
+imguTestCapture.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/imgu/!svn/ver/761/devel/examples/imguTestCapture.c
+END
+imguCapture.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/imgu/!svn/ver/561/devel/examples/imguCapture.c
+END
+imguSift.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/imgu/!svn/ver/532/devel/examples/imguSift.c
+END
+scannerdell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/imgu/!svn/ver/494/devel/examples/scannerdell.cpp
+END
+imgucalib.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/imgu/!svn/ver/1143/devel/examples/imgucalib.c
+END
+imguview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/imgu/!svn/ver/1215/devel/examples/imguview.cpp
+END
+imguPaint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/imgu/!svn/ver/1093/devel/examples/imguPaint.cpp
+END
+imguTestMultiCam.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/imgu/!svn/ver/828/devel/examples/imguTestMultiCam.c
+END
+imguEclairage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/imgu/!svn/ver/826/devel/examples/imguEclairage.cpp
+END
+imguViewerLarge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/imgu/!svn/ver/362/devel/examples/imguViewerLarge.cpp
+END
+imguTestGroupCam.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/imgu/!svn/ver/658/devel/examples/imguTestGroupCam.c
+END
+imguGrabFoeCamera.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/imgu/!svn/ver/1215/devel/examples/imguGrabFoeCamera.c
+END
+imguFFT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/imgu/!svn/ver/450/devel/examples/imguFFT.cpp
+END
+imguTestDeinterlace.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/imgu/!svn/ver/658/devel/examples/imguTestDeinterlace.c
+END
+imguviewosc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/imgu/!svn/ver/1163/devel/examples/imguviewosc.cpp
+END
+imguFit.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/imgu/!svn/ver/362/devel/examples/imguFit.c
+END
+imguCameraPanTilt.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/imgu/!svn/ver/621/devel/examples/imguCameraPanTilt.c
+END
+imguVideoTile.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/imgu/!svn/ver/1187/devel/examples/imguVideoTile.c
+END
+imguGimpView.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/imgu/!svn/ver/814/devel/examples/imguGimpView.c
+END
+tileinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/imgu/!svn/ver/1184/devel/examples/tileinfo.c
+END
+imguTestCamera.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/imgu/!svn/ver/692/devel/examples/imguTestCamera.c
+END
+viewmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/imgu/!svn/ver/362/devel/examples/viewmanager.h
+END
+imguTestGPU.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/imgu/!svn/ver/815/devel/examples/imguTestGPU.cpp
+END
+tileinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/imgu/!svn/ver/1184/devel/examples/tileinfo.h
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/imgu/!svn/ver/362/devel/examples/base.h
+END
+imguDoubleCapture.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/imgu/!svn/ver/1093/devel/examples/imguDoubleCapture.c
+END
+imguTestLoadSave.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/imgu/!svn/ver/671/devel/examples/imguTestLoadSave.c
+END
+imguViewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/imgu/!svn/ver/700/devel/examples/imguViewer.cpp
+END
+imguStl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/imgu/!svn/ver/362/devel/examples/imguStl.cpp
+END
+imguTestCreate.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/imgu/!svn/ver/1093/devel/examples/imguTestCreate.c
+END
+imgustreamv4l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/imgu/!svn/ver/1045/devel/examples/imgustreamv4l2.c
+END
+imguFASexpo.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/imgu/!svn/ver/1164/devel/examples/imguFASexpo.c
+END
+imguTestSnapshotFilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/imgu/!svn/ver/744/devel/examples/imguTestSnapshotFilter.c
+END
+imguMinGray.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/imgu/!svn/ver/1098/devel/examples/imguMinGray.c
+END
+imguComplex.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/imgu/!svn/ver/1040/devel/examples/imguComplex.c
+END
+scanner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/imgu/!svn/ver/493/devel/examples/scanner.cpp
+END
+imguCanny.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/imgu/!svn/ver/362/devel/examples/imguCanny.c
+END
+imguDiapoSubtitle.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/imgu/!svn/ver/1218/devel/examples/imguDiapoSubtitle.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/imgu/!svn/ver/1215/devel/examples/CMakeLists.txt
+END
+imguSee.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/imgu/!svn/ver/362/devel/examples/imguSee.cpp
+END
+imguPushBroom.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/imgu/!svn/ver/682/devel/examples/imguPushBroom.c
+END
+imguSiftMatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/imgu/!svn/ver/794/devel/examples/imguSiftMatch.c
+END
+imguVideoPlayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/imgu/!svn/ver/1166/devel/examples/imguVideoPlayer.c
+END
+viewmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/imgu/!svn/ver/362/devel/examples/viewmanager.cpp
+END
+imguInterpolate.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/imgu/!svn/ver/796/devel/examples/imguInterpolate.c
+END
+imguIRIC.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/imgu/!svn/ver/658/devel/examples/imguIRIC.c
+END
+imguMake8bits.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/imgu/!svn/ver/1035/devel/examples/imguMake8bits.c
+END
+base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/imgu/!svn/ver/362/devel/examples/base.cpp
+END
+imguStream.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/imgu/!svn/ver/561/devel/examples/imguStream.c
+END
+imguSplit.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/imgu/!svn/ver/1035/devel/examples/imguSplit.c
+END
+imguInfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/imgu/!svn/ver/1189/devel/examples/imguInfo.c
+END

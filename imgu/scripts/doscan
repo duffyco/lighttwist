@@ -1,0 +1,15 @@
+#!/bin/bash
+#
+# projet patterns and take pictures of the patterns, to generate two sequences of images,
+# one for the projector, one for the camera
+#
+#
+
+imguview8 -geom 0 0 659 493 true -camera gige:sync=44444 -save cam%03d.png -sync localhost 44445 10 &
+
+sleep 3
+
+imguview8 -geom 1920 0 800 600 false -camera pattern:type=noise:width=800:height=600:fmin=128:fmax=256:blur=1:sync=44445:n=100 -nb 100 -sync localhost 44444 100 -save proj%03d.png &
+
+wait
+

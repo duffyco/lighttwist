@@ -1,0 +1,337 @@
+Geode {
+  DataVariance DYNAMIC
+  name "cube.osg"
+  nodeMask 0xffffffff
+  cullingActive TRUE
+  StateSet {
+        TexEnv {
+          DataVariance STATIC
+          mode DECAL
+        }
+  }
+  num_drawables 6
+  Geometry {
+    DataVariance DYNAMIC
+    StateSet {
+      DataVariance STATIC
+      rendering_hint OPAQUE_BIN
+      renderBinMode INHERIT
+      GL_CULL_FACE ON
+        CullFace {
+          DataVariance STATIC
+          mode BACK
+        }
+      GL_LIGHTING ON
+      textureUnit 0 {
+        GL_TEXTURE_2D ON
+        Texture2D {
+          DataVariance STATIC
+          file "cibleAz-.jpg"
+          wrap_s CLAMP
+          wrap_t CLAMP
+          wrap_r CLAMP
+          min_filter LINEAR_MIPMAP_LINEAR
+          mag_filter LINEAR
+          maxAnisotropy 1
+          useHardwareMipMapGeneration TRUE
+          unRefImageDataAfterApply FALSE
+          internalFormatMode USE_IMAGE_DATA_FORMAT
+        }
+      }
+    }
+    useDisplayList TRUE
+    PrimitiveSets 1
+    {
+      DrawArrays QUADS 0 4
+    }
+    VertexArray Vec3Array 4
+    {
+      0 170 0
+      170 170 0
+      170 0 0
+      0 0 0
+    }
+    NormalBinding PER_PRIMITIVE
+    NormalArray Vec3Array 1
+    {
+      0 0 -1
+    }
+    TexCoordArray 0 Vec2Array 4
+    {
+      0 0
+      1 0
+      1 1
+      0 1
+    }
+  }
+  Geometry {
+    DataVariance DYNAMIC
+    StateSet {
+      DataVariance STATIC
+      rendering_hint OPAQUE_BIN
+      renderBinMode INHERIT
+      GL_CULL_FACE ON
+        CullFace {
+          DataVariance STATIC
+          mode BACK
+        }
+      GL_LIGHTING ON
+      textureUnit 0 {
+        GL_TEXTURE_2D ON
+        Texture2D {
+          DataVariance STATIC
+          file "cibleAz+.jpg"
+          wrap_s CLAMP
+          wrap_t CLAMP
+          wrap_r CLAMP
+          min_filter LINEAR_MIPMAP_LINEAR
+          mag_filter LINEAR
+          maxAnisotropy 1
+          useHardwareMipMapGeneration TRUE
+          unRefImageDataAfterApply FALSE
+          internalFormatMode USE_IMAGE_DATA_FORMAT
+        }
+      }
+    }
+    useDisplayList TRUE
+    PrimitiveSets 1
+    {
+      DrawArrays QUADS 0 4
+    }
+    VertexArray Vec3Array 4
+    {
+      0 0 170
+      170 0 170
+      170 170 170
+      0 170 170
+    }
+    NormalBinding PER_PRIMITIVE
+    NormalArray Vec3Array 1
+    {
+      0 0 1
+    }
+    TexCoordArray 0 Vec2Array 4
+    {
+      0 0
+      1 0
+      1 1
+      0 1
+    }
+  }
+  Geometry {
+    DataVariance DYNAMIC
+    StateSet {
+      DataVariance STATIC
+      rendering_hint OPAQUE_BIN
+      renderBinMode INHERIT
+      GL_CULL_FACE ON
+        CullFace {
+          DataVariance STATIC
+          mode BACK
+        }
+      GL_LIGHTING ON
+      textureUnit 0 {
+        GL_TEXTURE_2D ON
+        Texture2D {
+          DataVariance STATIC
+          file "cibleAx+.jpg"
+          wrap_s CLAMP
+          wrap_t CLAMP
+          wrap_r CLAMP
+          min_filter LINEAR_MIPMAP_LINEAR
+          mag_filter LINEAR
+          maxAnisotropy 1
+          useHardwareMipMapGeneration TRUE
+          unRefImageDataAfterApply FALSE
+          internalFormatMode USE_IMAGE_DATA_FORMAT
+        }
+      }
+    }
+    useDisplayList TRUE
+    PrimitiveSets 1
+    {
+      DrawArrays QUADS 0 4
+    }
+    VertexArray Vec3Array 4
+    {
+      170 170 0
+      170 170 170
+      170 0 170
+      170 0 0
+    }
+    NormalBinding PER_PRIMITIVE
+    NormalArray Vec3Array 1
+    {
+      1 0 0
+    }
+    TexCoordArray 0 Vec2Array 4
+    {
+      0 0
+      1 0
+      1 1
+      0 1
+    }
+  }
+  Geometry {
+    DataVariance DYNAMIC
+    StateSet {
+      DataVariance STATIC
+      rendering_hint OPAQUE_BIN
+      renderBinMode INHERIT
+      GL_CULL_FACE ON
+        CullFace {
+          DataVariance STATIC
+          mode BACK
+        }
+      GL_LIGHTING ON
+      textureUnit 0 {
+        GL_TEXTURE_2D ON
+        Texture2D {
+          DataVariance STATIC
+          file "cibleAx-.jpg"
+          wrap_s CLAMP
+          wrap_t CLAMP
+          wrap_r CLAMP
+          min_filter LINEAR_MIPMAP_LINEAR
+          mag_filter LINEAR
+          maxAnisotropy 1
+          useHardwareMipMapGeneration TRUE
+          unRefImageDataAfterApply FALSE
+          internalFormatMode USE_IMAGE_DATA_FORMAT
+        }
+      }
+    }
+    useDisplayList TRUE
+    PrimitiveSets 1
+    {
+      DrawArrays QUADS 0 4
+    }
+    VertexArray Vec3Array 4
+    {
+      0 0 0
+      0 0 170
+      0 170 170
+      0 170 0
+    }
+    NormalBinding PER_PRIMITIVE
+    NormalArray Vec3Array 1
+    {
+      -1 0 0
+    }
+    TexCoordArray 0 Vec2Array 4
+    {
+      0 0
+      1 0
+      1 1
+      0 1
+    }
+  }
+  Geometry {
+    DataVariance DYNAMIC
+    StateSet {
+      DataVariance STATIC
+      rendering_hint OPAQUE_BIN
+      renderBinMode INHERIT
+      GL_CULL_FACE ON
+        CullFace {
+          DataVariance STATIC
+          mode BACK
+        }
+      GL_LIGHTING ON
+      textureUnit 0 {
+        GL_TEXTURE_2D ON
+        Texture2D {
+          DataVariance STATIC
+          file "cibleAy+.jpg"
+          wrap_s CLAMP
+          wrap_t CLAMP
+          wrap_r CLAMP
+          min_filter LINEAR_MIPMAP_LINEAR
+          mag_filter LINEAR
+          maxAnisotropy 1
+          useHardwareMipMapGeneration TRUE
+          unRefImageDataAfterApply FALSE
+          internalFormatMode USE_IMAGE_DATA_FORMAT
+        }
+      }
+    }
+    useDisplayList TRUE
+    PrimitiveSets 1
+    {
+      DrawArrays QUADS 0 4
+    }
+    VertexArray Vec3Array 4
+    {
+      170 170 0
+      0 170 0
+      0 170 170
+      170 170 170
+    }
+    NormalBinding PER_PRIMITIVE
+    NormalArray Vec3Array 1
+    {
+      0 1 0
+    }
+    TexCoordArray 0 Vec2Array 4
+    {
+      0 0
+      1 0
+      1 1
+      0 1
+    }
+  }
+  Geometry {
+    DataVariance DYNAMIC
+    StateSet {
+      DataVariance STATIC
+      rendering_hint OPAQUE_BIN
+      renderBinMode INHERIT
+      GL_CULL_FACE ON
+        CullFace {
+          DataVariance STATIC
+          mode BACK
+        }
+      GL_LIGHTING ON
+      textureUnit 0 {
+        GL_TEXTURE_2D ON
+        Texture2D {
+          DataVariance STATIC
+          file "cibleAy-.jpg"
+          wrap_s CLAMP
+          wrap_t CLAMP
+          wrap_r CLAMP
+          min_filter LINEAR_MIPMAP_LINEAR
+          mag_filter LINEAR
+          maxAnisotropy 1
+          useHardwareMipMapGeneration TRUE
+          unRefImageDataAfterApply FALSE
+          internalFormatMode USE_IMAGE_DATA_FORMAT
+        }
+      }
+    }
+    useDisplayList TRUE
+    PrimitiveSets 1
+    {
+      DrawArrays QUADS 0 4
+    }
+    VertexArray Vec3Array 4
+    {
+      170 0 170
+      0 0 170
+      0 0 0
+      170 0 0
+    }
+    NormalBinding PER_PRIMITIVE
+    NormalArray Vec3Array 1
+    {
+      0 -1 0
+    }
+    TexCoordArray 0 Vec2Array 4
+    {
+      0 0
+      1 0
+      1 1
+      0 1
+    }
+  }
+}

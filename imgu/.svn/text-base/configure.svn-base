@@ -1,0 +1,2 @@
+#!/bin/sh
+cmake . -GUnix\ Makefiles -DCMAKE_INSTALL_PREFIX:PATH=/usr

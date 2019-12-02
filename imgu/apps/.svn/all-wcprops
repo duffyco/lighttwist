@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/imgu/!svn/ver/761/devel/apps
+END
+pngtext.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/imgu/!svn/ver/362/devel/apps/pngtext.c
+END
+pngtrack.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/imgu/!svn/ver/362/devel/apps/pngtrack.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/imgu/!svn/ver/532/devel/apps/CMakeLists.txt
+END
+pngmoyenne.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/imgu/!svn/ver/761/devel/apps/pngmoyenne.c
+END
+pngreverse.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/imgu/!svn/ver/362/devel/apps/pngreverse.c
+END
+pngdraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/imgu/!svn/ver/362/devel/apps/pngdraw.c
+END
+pngskiper.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/imgu/!svn/ver/362/devel/apps/pngskiper.c
+END
+pngls.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/imgu/!svn/ver/761/devel/apps/pngls.c
+END
+pngfft.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/imgu/!svn/ver/362/devel/apps/pngfft.c
+END
+pngmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/imgu/!svn/ver/362/devel/apps/pngmerge.c
+END
+pngselect.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/imgu/!svn/ver/362/devel/apps/pngselect.c
+END
+pngtrackdouble.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/imgu/!svn/ver/362/devel/apps/pngtrackdouble.c
+END
